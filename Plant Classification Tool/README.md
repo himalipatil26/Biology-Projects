@@ -47,7 +47,10 @@ Plant Group: Angiosperm (Dicot)
 ## 🧩 How to Run
 ### 1 Clone the Repository
 ```
-git clone https://github.com/yourusername/plant-classification-tool.git
+git clone https://github.com/yourusername/Biology-Projects.git
+```
+```
+cd Biology-Projects/Plant Classification Tool
 ```
 ### 2 Run the Script
 ```

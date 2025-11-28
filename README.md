@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="90" height="90" src="https://github.com/user-attachments/assets/51e5c1e1-7d29-43ed-8fde-e8bed0b2fdaa" />
+  
 </p>
 
 <h1 align="center">🧬 Biology Projects (School & College Intro)</h1>

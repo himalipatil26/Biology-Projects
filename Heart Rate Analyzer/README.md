@@ -50,7 +50,11 @@ Active Heart Rate:  Mean=120.00, Min=95, Max=150
 > Example Graphs:
 
 1. **Heart Rate Over Time** – Line plot showing how heart rate changes  
-2. **Resting vs Active Heart Rate** – Bar plot comparing averages  
+2. **Resting vs Active Heart Rate** – Bar plot comparing averages
+
+<img width="697" height="567" alt="image" src="https://github.com/user-attachments/assets/0e618fbe-bcfa-4a0c-9d08-60d2410d1d68" />
+
+<img width="694" height="569" alt="image" src="https://github.com/user-attachments/assets/bf11448a-ebc1-4555-a6a8-1f3de9c74c3a" />
 
 ---
 
